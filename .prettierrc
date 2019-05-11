@@ -1,0 +1,16 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "printWidth": 80,
+  "insertSpaces": true,
+  "tabSize": 2,
+  "trailingComma": "all",
+  "overrides": [
+    {
+      "files": "webpack.config.js",
+      "options": {
+        "trailingComma": "none"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dist_temp/
+.env
+.DS_Store
+.idea/
+npm-debug.log
+
+package-lock.json
+yarn-error.log
+yarn.lock

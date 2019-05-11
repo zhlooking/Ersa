@@ -1,0 +1,11 @@
+{
+  "presets": [["next", { "targets": "ie 11" }]],
+  "plugins": [
+    "react-hot-loader/babel",
+    "@babel/plugin-proposal-object-rest-spread",
+    "inline-react-svg",
+    "lodash",
+    "transform-react-remove-prop-types",
+    ["import", { "libraryName": "antd", "style": true }]
+  ]
+}
